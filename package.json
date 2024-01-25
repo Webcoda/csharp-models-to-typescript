@@ -1,12 +1,12 @@
 {
-  "name": "csharp-models-to-typescript",
-  "version": "0.23.0",
+  "name": "@webcodateam/csharp-models-to-typescript",
+  "version": "0.23.1",
   "title": "C# models to TypeScript",
   "author": "Jonathan Svenheden <jonathan@svenheden.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/svenheden/csharp-models-to-typescript.git"
+    "url": "https://github.com/Webcoda/csharp-models-to-typescript.git"
   },
   "engines": {
     "node": ">=6.0.0"
